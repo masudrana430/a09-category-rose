@@ -1,0 +1,348 @@
+
+
+[
+  {
+    "id": 1,
+    "title": "Winter Coat Fitting for Dogs",
+    "companyName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=800&q=80",
+    "size": 45,
+    "downloads": 12500,
+    "slotsAvailable": 4,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 120
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 740
+      },
+      {
+        "name": "4 star",
+        "count": 3900
+      },
+      {
+        "name": "5 star",
+        "count": 7560
+      }
+    ],
+    "ratingAvg": 4.49,
+    "reviews": 12500
+  },
+  {
+    "id": 2,
+    "title": "Winter Grooming & Paw Treatment",
+    "companyName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "category": "Grooming",
+    "image": "https://petsochic.com/cdn/shop/products/Sans_titre_100_774859aa-9ef8-461d-bb79-0bd4f2573da9_1024x1024.jpg?v=1585927077",
+    "size": 60,
+    "downloads": 9800,
+    "slotsAvailable": 3,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 90
+      },
+      {
+        "name": "2 star",
+        "count": 150
+      },
+      {
+        "name": "3 star",
+        "count": 720
+      },
+      {
+        "name": "4 star",
+        "count": 2800
+      },
+      {
+        "name": "5 star",
+        "count": 5060
+      }
+    ],
+    "ratingAvg": 4.43,
+    "reviews": 8820
+  },
+  {
+    "id": 3,
+    "title": "Heated Bed Rental (Weekly)",
+    "companyName": "SnowTail Rentals",
+    "providerEmail": "rentals@snowtail.com",
+    "description": "Rent a vet\u2011approved heated bed for cold nights. Delivery and sanitization included.",
+    "category": "Comfort",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPzezrEA1r2vHb6Ttep8H028C48GiQHD57pRJrUZMy20Qhyd9iJqaUq2LL1VabVHBnAA&usqp=CAU",
+    "size": 7,
+    "downloads": 6200,
+    "slotsAvailable": 8,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 70
+      },
+      {
+        "name": "3 star",
+        "count": 380
+      },
+      {
+        "name": "4 star",
+        "count": 1450
+      },
+      {
+        "name": "5 star",
+        "count": 3160
+      }
+    ],
+    "ratingAvg": 4.49,
+    "reviews": 5100
+  },
+  {
+    "id": 4,
+    "title": "Safe Winter Walks & Booties Fitting",
+    "companyName": "Frosty Paws Walkers",
+    "providerEmail": "support@frostypawswalkers.com",
+    "description": "Guided short walks on ice\u2011safe routes with booties fitting to protect paws from salt and frost.",
+    "category": "Walking",
+    "image": "https://m.media-amazon.com/images/I/71tvpKm63yL._AC_UF1000,1000_QL80_.jpg",
+    "size": 30,
+    "downloads": 8300,
+    "slotsAvailable": 5,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 70
+      },
+      {
+        "name": "2 star",
+        "count": 120
+      },
+      {
+        "name": "3 star",
+        "count": 520
+      },
+      {
+        "name": "4 star",
+        "count": 2200
+      },
+      {
+        "name": "5 star",
+        "count": 3390
+      }
+    ],
+    "ratingAvg": 4.38,
+    "reviews": 6300
+  },
+  {
+    "id": 5,
+    "title": "Winter Health Check & Vaccines",
+    "companyName": "Nordic Vet Clinic",
+    "providerEmail": "care@nordicvetclinic.com",
+    "description": "Comprehensive cold\u2011season checkup with respiratory screening and vaccine updates.",
+    "category": "Health",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/341376134/FI/VD/TQ/102946811/dog-coats.jpeg",
+    "size": 40,
+    "downloads": 15700,
+    "slotsAvailable": 6,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 180
+      },
+      {
+        "name": "3 star",
+        "count": 760
+      },
+      {
+        "name": "4 star",
+        "count": 3600
+      },
+      {
+        "name": "5 star",
+        "count": 7900
+      }
+    ],
+    "ratingAvg": 4.52,
+    "reviews": 12540
+  },
+  {
+    "id": 6,
+    "title": "Hydrating Skin & Coat Treatment",
+    "companyName": "Arctic Shine Spa",
+    "providerEmail": "spa@arcticshine.com",
+    "description": "Deep\u2011conditioning treatment to prevent dry skin and static; includes take\u2011home balm.",
+    "category": "Grooming",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/341376346/YA/DZ/HK/102946811/dog-coats-1000x1000.jpeg",
+    "size": 50,
+    "downloads": 11200,
+    "slotsAvailable": 7,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "2 star",
+        "count": 120
+      },
+      {
+        "name": "3 star",
+        "count": 620
+      },
+      {
+        "name": "4 star",
+        "count": 2500
+      },
+      {
+        "name": "5 star",
+        "count": 5280
+      }
+    ],
+    "ratingAvg": 4.49,
+    "reviews": 8600
+  },
+  {
+    "id": 7,
+    "title": "Thermal Jacket & Scarf Set Fitting",
+    "companyName": "WarmPaws Outfitters",
+    "providerEmail": "hello@warmpaws.co",
+    "description": "Personalized fitting for thermal jackets and scarves to keep pets cozy on frosty days.",
+    "category": "Clothing",
+    "image": "https://i.pinimg.com/736x/52/d1/8e/52d18e859cd7e11a2a9524a99170b2f5.jpg",
+    "size": 38,
+    "downloads": 9200,
+    "slotsAvailable": 5,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3750 }
+    ],
+    "ratingAvg": 4.44,
+    "reviews": 6500
+  },
+  {
+    "id": 8,
+    "title": "Paw Balm & Booties Package",
+    "companyName": "Polar Paws Care",
+    "providerEmail": "support@polarpaws.com",
+    "description": "Protect paws from ice and salt with moisturizing balm and custom-fitted booties.",
+    "category": "Paw Care",
+    "image": "https://dukaan.b-cdn.net/700x700/webp/media/aa8bed69-1cea-4ef1-8ff1-819d4b9e4fdb.png",
+    "size": 26,
+    "downloads": 10400,
+    "slotsAvailable": 6,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 410 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 4020 }
+    ],
+    "ratingAvg": 4.51,
+    "reviews": 6370
+  },
+  {
+    "id": 9,
+    "title": "Heated Crate Setup & Safety Check",
+    "companyName": "SnowTail Rentals",
+    "providerEmail": "safety@snowtail.com",
+    "description": "Set up a heated crate with ventilation and temperature checks for safe winter naps.",
+    "category": "Comfort",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBRfTKlJfrCnq2MO6Ec73OsCDVpWeemXAa7w&s",
+    "size": 18,
+    "downloads": 7600,
+    "slotsAvailable": 7,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 360 },
+      { "name": "4 star", "count": 1320 },
+      { "name": "5 star", "count": 2890 }
+    ],
+    "ratingAvg": 4.49,
+    "reviews": 4675
+  },
+  {
+    "id": 10,
+    "title": "Short Walks & Ice-Safe Routes",
+    "companyName": "Glacier Walks",
+    "providerEmail": "hello@glacierwalks.com",
+    "description": "Guided short walks on de-iced paths with reflective gear for early sunsets.",
+    "category": "Walking",
+    "image": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?auto=format&fit=crop&w=800&q=80",
+    "size": 22,
+    "downloads": 8400,
+    "slotsAvailable": 5,
+    "ratings": [
+      { "name": "1 star", "count": 58 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 430 },
+      { "name": "4 star", "count": 1700 },
+      { "name": "5 star", "count": 3560 }
+    ],
+    "ratingAvg": 4.47,
+    "reviews": 5848
+  },
+  {
+    "id": 11,
+    "title": "Winter Checkup for Senior Pets",
+    "companyName": "Evergreen Vet Center",
+    "providerEmail": "care@evergreenvet.com",
+    "description": "Seasonal health screening focused on joints, respiration, and safe winter nutrition.",
+    "category": "Health",
+    "image": "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?auto=format&fit=crop&w=800&q=80",
+    "size": 42,
+    "downloads": 13200,
+    "slotsAvailable": 6,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 520 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 4960 }
+    ],
+    "ratingAvg": 4.49,
+    "reviews": 8070
+  },
+  {
+    "id": 12,
+    "title": "Hydrating Nose & Paw Treatment",
+    "companyName": "Arctic Shine Spa",
+    "providerEmail": "spa@arcticshine.com",
+    "description": "Deep hydration for nose and paw pads to prevent cracking in cold, dry air.",
+    "category": "Grooming",
+    "image": "https://m.media-amazon.com/images/I/71F7s38JdiL._UF1000,1000_QL80_.jpg",
+    "size": 34,
+    "downloads": 9100,
+    "slotsAvailable": 8,
+    "ratings": [
+      { "name": "1 star", "count": 55 },
+      { "name": "2 star", "count": 95 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 1650 },
+      { "name": "5 star", "count": 3710 }
+    ],
+    "ratingAvg": 4.5,
+    "reviews": 5910
+  }
+]
+
+
