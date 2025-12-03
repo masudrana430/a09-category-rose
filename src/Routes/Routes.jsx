@@ -16,6 +16,7 @@ import Profile from "../Pages/Profile";
 import PrivatRoute from "../Provider/PrivatRoute";
 import Apps from "../Pages/Apps";
 import ForgotPassword from "../Pages/ForgotPassword";
+import AboutUs from "../Pages/AboutUs";
 
 const router = createBrowserRouter([
   {
@@ -42,7 +43,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/app/:id",
-        element: <PrivatRoute><AppDetails /></PrivatRoute>,
+        element: <AppDetails />,
         errorElement: <ErrorPage />,
       },
       {
@@ -53,6 +54,11 @@ const router = createBrowserRouter([
       {
         path: "/my-profile",
         element: <Profile />,
+        
+      },
+      {
+        path: "/about-us",
+        element: <AboutUs />,
         
       },
 

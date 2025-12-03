@@ -79,6 +79,11 @@ const Navbar = () => {
                   My Profile
                 </NavLink>
               </li>
+              <li>
+                <NavLink to="/about-us" className={navLinkClasses}>
+                  About Us
+                </NavLink>
+              </li>
             </ul>
           </div>
 
@@ -115,6 +120,11 @@ const Navbar = () => {
             <li>
               <NavLink to="/my-profile" className={navLinkClasses}>
                 My Profile
+              </NavLink>
+            </li>
+            <li>
+              <NavLink to="/about-us" className={navLinkClasses}>
+                About Us
               </NavLink>
             </li>
           </ul>
